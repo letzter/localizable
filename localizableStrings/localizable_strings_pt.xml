@@ -1,0 +1,4 @@
+<localizablestrings version="0003" updatedAt="20190131111000">
+    <string group="General" name="description" value="Este text van aparecer de acordo com a lingua"/>
+    <string group="General" name="button" value="Botao"/>
+</localizablestrings>
